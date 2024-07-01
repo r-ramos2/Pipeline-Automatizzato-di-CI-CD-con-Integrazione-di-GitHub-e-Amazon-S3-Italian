@@ -1,0 +1,1 @@
+# Pipeline-Automatizzato-di-CI-CD-con-Integrazione-di-GitHub-e-Amazon-S3-Italian
