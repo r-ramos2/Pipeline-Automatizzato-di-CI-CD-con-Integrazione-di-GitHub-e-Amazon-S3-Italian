@@ -82,3 +82,11 @@ In questo progetto, abbiamo dimostrato come distribuire un pipeline di Integrazi
 
 ## Ringraziamenti
 Questo tutorial è adattato dal [Tutorial: Create a pipeline that uses Amazon S3 as a deployment provider website](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-s3deploy.html) fornito da Amazon Web Services. Ringraziamo AWS per aver fornito questa preziosa risorsa, che ha servito come base per il tutorial "Pipeline Automatizzato di CI/CD con Integrazione di GitHub e Amazon S3".
+
+## Esplori il Progetto in Più Lingue
+
+- [Inglese](https://github.com/r-ramos2/Automated-CI-CD-Pipeline-with-GitHub-and-Amazon-S3-Integration-English/blob/main/README.md) (English)
+- [Francese](https://github.com/r-ramos2/Pipeline-automatisee-CI-CD-avec-integration-GitHub-et-Amazon-S3-French) (Français)
+- [Portoghese](https://github.com/r-ramos2/Pipeline-Automatizado-de-CI-CD-com-Integracao-GitHub-e-Amazon-S3-Portuguese) (Português)
+- [Spagnolo](https://github.com/r-ramos2/Pipeline-Automatizado-de-CI-CD-con-Integracion-de-GitHub-y-Amazon-S3-Spanish) (Español)
+
